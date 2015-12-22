@@ -1,0 +1,14 @@
+{
+  "name": "passport-mitsaml",
+  "version": "1.0.0",
+  "description": "MIT SAML auth",
+  "main": "index.js",
+  "dependencies": {
+    "passport-saml": "~0.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Zayats",
+  "license": "MIT"
+}
