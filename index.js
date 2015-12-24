@@ -11,7 +11,7 @@ const idPCert = 'MIIDCDCCAfCgAwIBAgIJAK/yS5ltGi7MMA0GCSqGSIb3DQEBBQUAMBYxFDASBgN
 
 // entityID="https://idp.mit.edu/shibboleth"
 
-const idPEntryPoint = 'https://login.cmu.edu/idp/profile/SAML2/Redirect/SSO';
+const idPEntryPoint = 'https://idp.mit.edu/idp/profile/SAML2/Redirect/SSO';
 
 const urls = {
     metadata: '/MitSaml.sso/Metadata'
