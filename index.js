@@ -74,6 +74,7 @@ function Strategy(options, verify) {
         decryptionPvk: options.privateKey,
         privateCert: options.privateKey,
         acceptedClockSkewMs: 180000,
+        disableRequestedAuthnContext: true,
         passReqToCallback: true
     };
 
